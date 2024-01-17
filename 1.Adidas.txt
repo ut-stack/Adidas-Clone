@@ -1,0 +1,22 @@
+1. #top 
+2. #minnav - .minlist
+3. #navbar - .logo + .navlist + .search-bar + .symbol
+4. #banner1
+
+from 5th to 7th  comes under 
+#middel
+5. #lilbar - .lillist
+6. #heading - h2
+7. #sports - p
+
+from 8th to 10th comes under 
+#container
+8. #container-item - .one - img, h4, h5 & p
+9. #container-item - .two - img, h4, h5 & p
+10. #container-item - .three - img, h4, h5 & p
+
+11. #clothings - .list-one... .list-six conisnt of 12 items in each
+12. #banner2
+13. #footer - content*6 - h2 + ul 
+14. #end - p {copyrights privacy policy etc}
+
